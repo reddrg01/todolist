@@ -1,0 +1,5 @@
+user_input = "Enter name: "
+
+while True:
+    user_name = input(user_input)
+    print(user_name.capitalize())

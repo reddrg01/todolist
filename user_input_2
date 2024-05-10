@@ -1,0 +1,9 @@
+user_prompt = "Enter To Do:"
+
+while i in user_prompt:
+    
+
+todos = [todo1,todo2,todo3]
+print(todos)
+
+print(type(todos)) # This shows the type that "todos" is in python.
